@@ -1,0 +1,11 @@
+{
+  "name": "flight-checkin-backend",
+  "version": "1.0.0",
+  "main": "api/checkin.js",
+  "scripts": {
+    "start": "node api/checkin.js"
+  },
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
